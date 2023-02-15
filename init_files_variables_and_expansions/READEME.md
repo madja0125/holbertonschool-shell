@@ -1,1 +1,1 @@
-variables expan init
+var expan init
